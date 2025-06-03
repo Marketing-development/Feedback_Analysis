@@ -18,10 +18,9 @@ import sys
 sys.stdout = open("report_output.txt", "w", encoding="utf-8")
 
 
-
 # === CONFIGURATION ============================================================================
 
-api_key = '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'
+api_key = ''
 MY_WEBSITE = "https://institutedfa.com/"
 COMPETITOR_WEBSITE = "https://us.aicpa.org/forthepublic"
 CRAWL_DEPTH = 2
